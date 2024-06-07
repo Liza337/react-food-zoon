@@ -3,7 +3,8 @@
 ## LiveSite Link : https://deft-narwhal-86496b.netlify.app/
 
 ## Description
-- A simple react router project 
+- A simple react router project
+- It is built with Tailwind CSS ,React Router & JavaScript
 - Json data are fetched
 - It contains Home, Orders, Statistics and About us components
 - In home page you can find the featured foods
